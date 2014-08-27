@@ -1,0 +1,229 @@
+#contianer{
+    width:100%;
+    background:#EBFFC4;
+    text-decoration: none;
+}
+a {
+    cursor: pointer;
+}
+#user {
+    height:40px;
+    width:100%;
+    background:red;
+    text-align: right;
+}
+#userName{
+    font-size:30px;
+    margin-right: 40px;
+}
+#intruduction {
+    width:1000px;
+    height:90px;
+    margin:auto;
+    background:deeppink;
+}
+#intruduction img {
+    width:90px;
+    margin:10px 20px;
+    float: left;
+}
+#intruduction p {
+    float:right;
+    font-size: 20px;
+    color: darkgreen;
+    margin-right: 700px;
+}
+#meum {
+    width:1000px;
+    height:45px;
+    background: orchid;
+    margin:auto;
+}
+.inmeum {
+    background: yellowgreen;
+    font-size: 20px;
+    padding: 11px 60px;
+    line-height: 45px;
+    text-decoration: none;
+}
+.inmeum:hover {
+    background: yellow;
+    text-decoration: none;
+
+}
+#main {
+    background: mediumpurple;
+    width:1000px;
+    margin:auto;
+}
+.reply {
+    width:960px;
+    background: pink;
+    padding:20px 20px;
+    border:1px solid #d3d3d3;
+}
+.reply .user {
+    background: lawngreen;
+    height:135px;
+    width:97px;
+    margin-left: 30px;
+    margin-top: 30px;
+    float: left;
+}
+.reply .user img {
+    width:97px;
+    height:97px;
+}
+.reply .user div {
+    text-align: center;
+    background: red;
+}
+.reply-content {
+    width:770px;
+    font-size: 20px;
+    float: left;
+    margin-left: 30px;
+    text-overflow: clip;
+    word-wrap:break-word;
+    background: deeppink;
+}
+.main-reply {
+    height:auto!important;
+    height: 270px;
+    min-height:270px;
+    background: lightskyblue;
+    font-size:20px;
+}
+.control {
+    background: blueviolet;
+    height:30px;
+    text-align: right;
+}
+.control a {
+    color: purple;
+    font-size: 17px;
+}
+.control span {
+    color:silver;
+    font-size: 16px;
+}
+.f-reply {
+    background: blanchedalmond;
+}
+.f-reply-content {
+    background:lightskyblue;
+    font-size:17px;
+}
+.f-head {
+    height: 37px;
+    width: 37px;
+    float: left;
+    margin: 13px 16px;
+}
+.fr-div {
+    background: orangered;
+}
+.fr-content {
+    background: orchid;
+    height:auto!important;
+    height: 60px;
+    min-height:60px;
+}
+.fr-control {
+    height: 30px;
+    background: olive;
+    text-align: right;
+}
+.fr-control span {
+    color:silver;
+    font-size: 16px;
+}
+.fr-control a {
+    color: purple;
+    font-size: 17px;
+}
+.con-re {
+    padding: 1px 15px;
+    background: green;
+}
+.wc {
+    background: red;
+    font-size: 15px;
+    padding: 5px 2px;
+    width:100px;
+    margin: 5px 650px 5px ;
+    text-align: center;
+    float:left;
+}
+.f-istream {
+    background: orange;
+    height: 100px;
+}
+.f-istream textarea{
+    width:660px;
+    margin:5px 80px;
+}
+.f-istream input {
+    width:100px;
+    height: 30px;
+    margin-left: 650px;
+}
+#istream {
+    width:1000px;
+    height:500px;
+    background: url('/postBar/Public/Image/istreambg.jpg');
+    margin:auto;
+}
+#page {
+    width:940px;
+    height:70px;
+    background:cornflowerblue;
+    margin:auto;
+    line-height: 70px;
+    padding-left:60px;
+}
+.pageblock {
+    background:salmon;
+    border:1px solid;;
+    padding:5px 10px;
+    text-decoration:none;
+}
+.pageblock:hover{
+    text-decoration: none;
+    background:slateblue;
+}
+.pageblock_now {
+    background:blanchedalmond;
+    border:1px solid;;
+    padding:5px 10px;
+    text-decoration:none;
+}
+table {
+    margin:auto;
+    padding-top:50px;
+}
+#inpti {
+    width:628px;
+    height:32px;
+}
+#public {
+    width:650px;
+    height: 270px;
+    padding-left: 5px;
+}
+[type='submit'] {
+    width:150px;
+    height:50px;
+}
+#verifyi {
+    width:100px;
+    height:30px;
+    position: relative;
+    top:10px;
+
+}
+#verifyt {
+    width:100px;
+    height:30px;
+}
+
